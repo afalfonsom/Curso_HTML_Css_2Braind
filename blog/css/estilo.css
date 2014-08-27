@@ -68,11 +68,28 @@ footer{
 	margin: auto;
 	text-align: center;
 	background: darkgray;
+
+	border: 2px solid white;
+	border-radius: 0px 0px 5px 35px
+	-moz-border-radius: 0px 0px 5px 35px
+	-webkit-border-radius: 0px 0px 5px 35px
+	-o-border-radius: 0px 0px 5px 35px
+
+	box-shadow: 0px 0px 10px white;
+	-moz-box-shadow: 0px 0px 10px white;
+	-webkit-box-shadow: 0px 0px 10px white;
+	-o-box-shadow: 0px 0px 10px white;
 }
 
 /*contenido*/
 #contenido{
 	width: 100%;
+	border: 2px solid white;
+
+	box-shadow: 0px 0px 10px white;
+	-moz-box-shadow: 0px 0px 10px white;
+	-webkit-box-shadow: 0px 0px 10px white;
+	-o-box-shadow: 0px 0px 10px white;
 }
 article{
 	width: 50%;
