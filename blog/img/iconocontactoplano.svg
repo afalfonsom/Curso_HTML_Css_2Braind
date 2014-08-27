@@ -26,9 +26,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.1658976"
      inkscape:cx="122.34519"
-     inkscape:cy="127.79657"
+     inkscape:cy="402.26321"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="706"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,7 @@
      inkscape:label="cuerpo2">
     <path
        sodipodi:type="arc"
-       style="fill:#ffcccc;fill-opacity:1;stroke:#cccccc"
+       style="fill:#666666;fill-opacity:1;stroke:#cccccc"
        id="path3026-4"
        sodipodi:cx="312.85715"
        sodipodi:cy="487.14285"
@@ -77,17 +77,17 @@
        sodipodi:cy="155.71428"
        sodipodi:rx="110"
        sodipodi:ry="95.714287"
-       d="m 417.14285,155.71428 a 110,95.714287 0 1 1 -220,0 110,95.714287 0 1 1 220,0 z"
+       d="m 417.14285,155.71428 c 0,52.86154 -49.24867,95.71429 -110,95.71429 -60.75132,0 -110,-42.85275 -110,-95.71429 0,-52.86154 49.24868,-95.714288 110,-95.714288 60.75133,0 110,42.852748 110,95.714288 z"
        transform="matrix(0.95454545,0,0,0.94776342,101.364,505.08981)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffcccc;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1"
        id="path3019-1"
        sodipodi:cx="307.14285"
        sodipodi:cy="155.71428"
        sodipodi:rx="110"
        sodipodi:ry="95.714287"
-       d="m 417.14285,155.71428 a 110,95.714287 0 1 1 -220,0 110,95.714287 0 1 1 220,0 z"
+       d="m 417.14285,155.71428 c 0,52.86154 -49.24867,95.71429 -110,95.71429 -60.75132,0 -110,-42.85275 -110,-95.71429 0,-52.86154 49.24868,-95.714288 110,-95.714288 60.75133,0 110,42.852748 110,95.714288 z"
        transform="matrix(0.95454545,0,0,0.94776342,-135.36349,513.6669)" />
   </g>
   <g
