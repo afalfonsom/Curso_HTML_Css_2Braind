@@ -54,7 +54,26 @@ header{
 }
 footer{
 	display: table;
-margin: auto;
-text-align: center;
-background: darkgray;
+	margin: auto;
+	text-align: center;
+	background: darkgray;
+}
+
+/*contenido*/
+#contenido{
+	width: 100%;
+}
+article{
+	width: 50%;
+	background: white;
+}
+aside{
+	display: inline-table;
+	width: 40%;
+	background: white;
+}
+#sobremi{
+	width: 100%;
+	height: 100%;
+	background: blue;
 }
