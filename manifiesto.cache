@@ -1,0 +1,16 @@
+# Manifiesto v1.0
+# Este es un manifiesto para mi web
+
+CACHE MANIFEST
+manifiesto.html
+estilos.css
+imagenes/imagen.png
+scripts/miscipt.js
+
+NETWORK:
+logi.php
+visitas.php
+
+FALLBACK
+img/imagen.png
+archivo.php
