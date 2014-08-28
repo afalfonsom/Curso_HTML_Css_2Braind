@@ -71,6 +71,8 @@ nav ul li a{
 	-moz-box-shadow: 0px 0px 5px white;
 	-webkit-box-shadow: 0px 0px 5px white;
 	-o-box-shadow: 0px 0px 5px white;
+	width: 90px;
+	
 
 }
 nav ul li a:hover{
@@ -80,6 +82,17 @@ nav ul li a:hover{
 	-moz-box-shadow: 0px 0px 25px white;
 	-webkit-box-shadow: 0px 0px 25px white;
 	-o-box-shadow: 0px 0px 25px white;
+}
+
+#iconoinicio{
+	border: 0px solid white;
+
+}
+#iconosobremi{
+	border: 0px solid white;
+}
+#iconocontacto{
+	border: 0px solid white;
 }
 
 /* Maquetacion Principal*/
